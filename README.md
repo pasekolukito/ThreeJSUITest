@@ -1,2 +1,0 @@
-# ThreeJSUITest
-Created with CodeSandbox
